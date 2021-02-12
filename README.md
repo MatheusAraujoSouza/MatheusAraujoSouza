@@ -17,11 +17,3 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 <img src="https://img.shields.io/badge/Fortran%20-503040.svg" alt="Fortran">
 [![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/70197-private-cody-leaderboard)
-
-
-<a href="https://www.linkedin.com/in/matheus-araujo-souza/">
-  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
- 
-
