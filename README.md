@@ -18,6 +18,6 @@
 [![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/70197-private-cody-leaderboard)
 
 #### Contact me:
+
 <a href="https://www.linkedin.com/in/matheus-araujo-souza/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="20px" alt="LinkedIn"></a> 
-<a href="mhatheussss@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/MatheusAraujoSouza" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
