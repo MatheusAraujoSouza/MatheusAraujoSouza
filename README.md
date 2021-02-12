@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Matheus 
 
-<!--
-**MatheusAraujoSouza/MatheusAraujoSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm an Applied mathematician student. I love physics, engineering and general in science**
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+- 🎓: Finishing up my university graduate and preparing to make the for industry transition
+- :books:: Learning more about my area every day
+- :speech_balloon:: Ask me about optimization, calculation, PDE, ODE, mathematical models, statistics and physics.
+
+ 
+##### Languages I use
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+<img src="https://img.shields.io/badge/Fortran%20-503040.svg" alt="Fortran">
+[![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/70197-private-cody-leaderboard)
+
+
+<a href="https://www.linkedin.com/in/matheus-araujo-souza/">
+  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+ 
+
