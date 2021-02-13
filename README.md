@@ -8,7 +8,7 @@
 - 🎓: Finishing my undergraduation and preparing for industry transition.
 - :books:: Learning more about my area every day.
 - :speech_balloon:: Ask me about optimization, calculation, PDE, ODE, mathematical models, statistics and physics.
-- :test_tube:: always seeking related subjects that can be applied in the real world.
+- :test_tube:: Always seeking related subjects that can be applied in the real world.
 
 ##### Languages I use:
 
