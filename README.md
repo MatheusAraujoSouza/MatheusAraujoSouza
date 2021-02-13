@@ -2,7 +2,7 @@
 
 
 
-**I'm an Applied mathematician student. I love physics, engineering and general in science**
+**I'm an Applied mathematician student. I love physics, engineering and science in general**
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  ##### About me:
 - 🎓: Finishing my undergraduation and preparing for industry transition.
