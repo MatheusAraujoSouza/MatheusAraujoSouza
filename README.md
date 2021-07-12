@@ -16,7 +16,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35"/> &nbsp;
 <img src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/C.png" alt="C" width="35" height="35" /> &nbsp;
-<img src="https://img.shields.io/badge/Fortran%20-503040.svg" alt="Fortran"> &nbsp;
+<img src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/fortran.png" alt="fortran" width="35" height="35" /> &nbsp;
 <img src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/matlab2.png" alt="matlab" width="35" height="35" /> &nbsp;
 </p>
 
