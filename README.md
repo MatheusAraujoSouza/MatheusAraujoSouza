@@ -3,6 +3,7 @@
 
 
 **I'm an Applied mathematician student. I love physics, engineering and science in general**
+
 <img align="right" alt="GIF" src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/cyberpunk.gif" />
 
  ##### About me:
