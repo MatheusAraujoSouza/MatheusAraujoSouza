@@ -22,7 +22,7 @@
 #### Contact me:
 
 <a href="https://www.linkedin.com/in/matheus-araujo-souza/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="20px" alt="LinkedIn"></a>&nbsp; &nbsp;
-<a href="mailto:mhatheussss@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="20px" alt="mail"></a>&nbsp; &nbsp;
-<a href="https://github.com/MatheusAraujoSouza" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
+<a href="https://github.com/MatheusAraujoSouza" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Elangovan Sundar" height="20" width="20" /></a>&nbsp; &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-mhatheussss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhatheussss@gmail.com)](mailto:mhatheussss@gmail.com)
 
 
