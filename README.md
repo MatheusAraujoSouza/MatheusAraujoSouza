@@ -13,11 +13,12 @@
 - :test_tube:: Always seeking related subjects that can be applied in the real world.
 
 ##### Languages I use:
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-<img src="https://img.shields.io/badge/Fortran%20-503040.svg" alt="Fortran">
-[![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/70197-private-cody-leaderboard)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35"/> &nbsp;
+<img src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/C.png" alt="C" width="30" height="30" /> &nbsp;
+<img src="https://img.shields.io/badge/Fortran%20-503040.svg" alt="Fortran"> &nbsp;
+<img src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/matlab2.png" alt="matlab" width="35" height="35" /> &nbsp;
+</p>
 
 #### Contact me:
 
