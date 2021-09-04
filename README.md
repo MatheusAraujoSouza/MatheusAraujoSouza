@@ -27,3 +27,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-mhatheussss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhatheussss@gmail.com)](mailto:mhatheussss@gmail.com)
 
 
+![Snake animation](https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/.github/workflows/snake.yml)
