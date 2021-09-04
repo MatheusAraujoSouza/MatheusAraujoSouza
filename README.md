@@ -26,5 +26,5 @@
 <a href="https://github.com/MatheusAraujoSouza" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Elangovan Sundar" height="20" width="20" /></a>&nbsp; &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-mhatheussss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhatheussss@gmail.com)](mailto:mhatheussss@gmail.com)
 
-![Snake animation](https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/output/github-contribution-grid-snake.svg)
+
 
