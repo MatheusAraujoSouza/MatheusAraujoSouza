@@ -9,7 +9,7 @@
  ##### About me:
 - 🎓: Finishing my undergraduation and preparing for industry transition.
 - :books:: Learning more about my area every day.
-- :speech_balloon:: Ask me about Machine learning, optimization, calculation, PDE, ODE, mathematical models, statistics and physics.
+- :speech_balloon:: Ask me about machine learning, optimization, calculation, PDE, ODE, mathematical models, statistics and physics.
 - :test_tube:: Always seeking related subjects that can be applied in the real world.
 
 ##### Languages I use:
