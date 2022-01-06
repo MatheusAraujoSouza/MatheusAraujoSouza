@@ -2,12 +2,11 @@
 
 
 
-**I'm an Applied mathematician student. I love physics, engineering and science in general**
+**I'm undergraduated at Applied Mathematics and Computational and junior developer. I love physics, engineering and science in general**
 
 <img align="right" alt="GIF" src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/cyberpunk.gif" />
 
  ##### About me:
-- 🎓: Finishing my undergraduation and preparing for industry transition.
 - :books:: Learning more about my area every day.
 - :speech_balloon:: Ask me about machine learning, optimization, calculation, PDE, ODE, mathematical models, statistics and physics.
 - :test_tube:: Always seeking related subjects that can be applied in the real world.
