@@ -8,7 +8,7 @@
 
  ##### About me:
 - :books:: Learning more about my area every day.
-- :speech_balloon:: Ask me about machine learning, optimization, calculation, PDE, ODE, mathematical models, statistics and physics.
+- :speech_balloon:: Ask me about OOP, API,machine learning, optimization, calculation, PDE, ODE, mathematical models, statistics and physics.
 - :test_tube:: Always seeking related subjects that can be applied in the real world.
 
 ##### Languages I use:
