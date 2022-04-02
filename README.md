@@ -13,6 +13,8 @@
 
 ##### Languages I use:
 <p align="left">
+
+<img src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/csharp.png" alt="Csharp" width="32" height="32"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="32" height="32"/> &nbsp;
 <img src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/C.png" alt="C" width="32" height="32" /> &nbsp;
 <img src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/fortran.png" alt="fortran" width="32" height="32" /> &nbsp;
