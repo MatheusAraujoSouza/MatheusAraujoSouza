@@ -55,8 +55,8 @@
 
 <details>
  <summary><h3>👨‍💻 Matheus's Coding Journey</h3></summary>
-   I started my journey as a Physics student, it was there that I had my first contact with the world of programming. Before I was just a theorist and I liked formulas and mathematics, but with time I ended up getting discouraged with the course of the course, so I decided to switching to applied and computational mathematics was not an easy path even though with a lot of persistence I managed to do it. In the course I ended up falling in love with the world of computing and developed several projects at the University, most of them available in my repository, today I work with software engineering and continue studying every day to become a 
-great engineer.
+   I started my journey as a Physics student, it was there that I had my first contact with the world of programming. Before that, I was just a theorist and I liked formulas and mathematics, but with time I ended up getting discouraged with the future of my course, so I decided to switch to applied and computational mathematics. It was not an easy path even though with a lot of persistence I managed to do it. In the course I ended up falling in love with the world of computing and developed several projects at the University, most of them available in my repository. Today I work with software engineering and continue studying every day to become even
+greater.
 
 
 
