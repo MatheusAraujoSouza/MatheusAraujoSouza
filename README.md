@@ -2,7 +2,7 @@
 
 
 
-**I'm undergraduated at Applied Mathematics and Computational and junior developer. I love physics, engineering and science in general**
+**I'm undergraduated at Applied Mathematics and Computational and junior developer. I love physics, engineering and science in general.**
 <p align="center">
 <img  alt="GIF" src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/cyberpunk.gif" width="650px" height="300px"/>
 </p>
@@ -51,10 +51,12 @@
 </div>
 
 
+**Take a look at the organization of my repositories for my 2023 [Roadmap](https://github.com/MatheusAraujoSouza/My-personal-roadmap-for-2023)**
 
 <details>
  <summary><h3>👨‍💻 Matheus's Coding Journey</h3></summary>
-   I started my journey as a Physics student, it was there that I had my first contact with the world of programming. Before I was just a theorist and I liked formulas and mathematics, but with time I ended up getting discouraged with the course of the course, so I decided to switching to applied and computational mathematics was not an easy path even though with a lot of persistence I managed to do it. In the course I ended up falling in love with the world of computing and developed several projects at the University, most of them available in my repository, today I work with software engineering and continue studying every day to become a full-stack programmer.
+   I started my journey as a Physics student, it was there that I had my first contact with the world of programming. Before I was just a theorist and I liked formulas and mathematics, but with time I ended up getting discouraged with the course of the course, so I decided to switching to applied and computational mathematics was not an easy path even though with a lot of persistence I managed to do it. In the course I ended up falling in love with the world of computing and developed several projects at the University, most of them available in my repository, today I work with software engineering and continue studying every day to become a 
+great engineer.
 
 
 
