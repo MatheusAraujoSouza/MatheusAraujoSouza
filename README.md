@@ -47,6 +47,7 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-araujo-souza/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhatheussss@gmail.com)
+![](https://komarev.com/ghpvc/?username=MatheusAraujoSouza&style=for-the-badge&color=blueviolet)
   
 </div>
 
