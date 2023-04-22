@@ -2,7 +2,7 @@
 
 
 
-**I'm undergraduated at Applied Mathematics and Computational and junior developer. I love physics, engineering and science in general.**
+**I'm undergraduated at Applied Mathematics and Computational. I love physics, engineering and science in general.**
 <p align="center">
 <img  alt="GIF" src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/cyberpunk.gif" width="650px" height="300px"/>
 </p>
