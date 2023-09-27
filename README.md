@@ -52,7 +52,7 @@
 
 <h3 align="center">Badges:</h3>
 <div align="center">
-    <img align="center" src="https://www.codewars.com/users/Matheus%20Araujo%20Souza/badges/large" width="250" height="100"/>
+    <img align="center" src="https://www.codewars.com/users/Matheus%20Araujo%20Souza/badges/large" width="290" height="100"/>
 </div>
 
 
