@@ -4,7 +4,7 @@
 
 **I'm undergraduated at Applied Mathematics and Computational. I love physics, engineering and science in general.**
 <p align="center">
-<img  alt="GIF" src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/fushiguro.gif" width="650px" height="300px"/>
+<img  alt="GIF" src="https://github.com/MatheusAraujoSouza/MatheusAraujoSouza/blob/main/blackhole.gif" width="650px" height="300px"/>
 </p>
 
 
